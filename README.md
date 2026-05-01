@@ -1,2 +1,5 @@
-# secure-login-authentication-system
-Secure Login Authentication System using Data Structures in C++
+# Secure Login Authentication System
+
+Name: Pavithran
+Register Number: 711525BEVO39
+Department: EE – VLSI Design & Technology
